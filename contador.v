@@ -1,4 +1,4 @@
-module counter(
+module contador(
  
    input wire clk, reset,
  
@@ -36,7 +36,7 @@ always @* begin
 	occupancy = count;
 
 	if (occupancy == 6'b000000)
-	
+
 		vazio <= 1;
 
 	
