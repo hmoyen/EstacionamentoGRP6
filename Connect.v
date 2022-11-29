@@ -1,6 +1,6 @@
 module Connect(
 	input wire clk, reset,
-    input wire a,b, 
+    	input wire a,b, 
     	//output [7:0] counter //To be used for simulation
 	// output [7:0] sseg,
     output [3:0]an
