@@ -27,6 +27,23 @@ Na aba Transcript, tem tudo que é dado em display no arquivo sistema.v.
 
   Primeiramente, baixe em ZIP o repositório e extraia os arquivos ou dê o comando no terminal:
   ```
-  git clone
+  git clone git@github.com:hmoyen/EstacionamentoGRP6.git
   
   ```
+Agora vamos compilar os arquivos com Icarus Verilog:
+
+ ```
+  iverilog sistema.v testbench.v
+  
+  ```
+  Por fim, vamos executar a simulação:
+  
+   ```
+  vvp a.out
+  
+  ```
+  
+  ![Uploading Screenshot from 2022-11-30 19-27-34.png…]()
+
+  
+  
