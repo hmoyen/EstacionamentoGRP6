@@ -1,7 +1,7 @@
 # EstacionamentoGRP6
 O repositório representa um sistema de estacionamento com sensor de entrada e saída, além de monitoramento do nível de alagamento com uma máquina de estado em Verilog.
 A seguir, é descrito como realizar a simulação utilizando o arquivo "testbench", o qual contém o módulo "Connect" e as entradas do sistema, assim como os intervalos de tempo.
-##Simulação ModelSim
+## Simulação ModelSim
 Tendo o Quartus Prime Lite Edition aberto com o testbench e arquivo sistema.v compilado já na mesma pasta (com o arquivo sistema.v sendo Top Entity), vá para Assignments > Settings > EDTA Tool Settings > Simulation:
 
 ![simulation_testset](https://user-images.githubusercontent.com/100461457/204906926-ea2ab8a9-8c94-4b56-96c2-40f77b1acbb2.png)
@@ -23,4 +23,4 @@ Na aba Transcript, tem tudo que é dado em display no arquivo sistema.v.
 
 ![Transcript](https://user-images.githubusercontent.com/100461457/204911898-b5a51bb4-829a-40ea-a9f0-5b911657c8b1.png)
 
-##Simulação Terminal Linux
+## Simulação Terminal Linux
