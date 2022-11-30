@@ -42,8 +42,8 @@ Agora vamos compilar os arquivos com Icarus Verilog:
   vvp a.out
   
   ```
-  
-  ![Uploading Screenshot from 2022-11-30 19-27-34.png…]()
+  ![Screenshot from 2022-11-30 19-27-34](https://user-images.githubusercontent.com/100461457/204922062-01a40693-4ec7-4245-bf0d-d152d932e7a3.png)
+
 
   
   
