@@ -24,3 +24,8 @@ Na aba Transcript, tem tudo que é dado em display no arquivo sistema.v.
 ![Transcript](https://user-images.githubusercontent.com/100461457/204911898-b5a51bb4-829a-40ea-a9f0-5b911657c8b1.png)
 
 ## Simulação Terminal Linux
+
+  Primeiramente, baixe em ZIP o repositório e extraia os arquivos ou dê o comando no terminal:
+  ```
+  git clone
+  ```
