@@ -28,4 +28,5 @@ Na aba Transcript, tem tudo que é dado em display no arquivo sistema.v.
   Primeiramente, baixe em ZIP o repositório e extraia os arquivos ou dê o comando no terminal:
   ```
   git clone
+  
   ```
